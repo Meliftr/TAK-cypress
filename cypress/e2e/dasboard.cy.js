@@ -12,7 +12,7 @@ describe('test sign up scenario', () => {
   const LoginPage = new loginPage ()
 
   beforeEach(() => {
-    cy.visit('https://itera-qa.azurewebsites.net/')
+    cy.visit('/')
     cy.get(LoginPage.loginMenu).click()
     cy.get(BaseIteraQA.username).should('be.visible').type(loginInput.usernameLogin)
     cy.get(BaseIteraQA.password).should('be.visible').type(loginInput.passowrdLogin)

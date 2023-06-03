@@ -8,7 +8,7 @@ describe('test sign up scenario', () => {
   const SignupPage = new signupPage ()
 
   beforeEach(() => {
-    cy.visit('https://itera-qa.azurewebsites.net/')
+    cy.visit('/')
     cy.get(SignupPage.signupBtn).click()
   })
 

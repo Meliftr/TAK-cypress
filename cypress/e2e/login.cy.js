@@ -12,7 +12,7 @@ describe('test sign up scenario', () => {
   const LoginPage = new loginPage ()
 
   beforeEach(() => {
-    cy.visit('https://itera-qa.azurewebsites.net/')
+    cy.visit('/')
     cy.get(LoginPage.loginMenu).click()
   })
 
