@@ -1,0 +1,17 @@
+{
+    "nameCustomer" : "meli",
+    "companyCustomer" : "PT A",
+    "addressCustomer" : "Sancang",
+    "cityCustomer" : "Bogor",
+    "phoneCustomer" : "08888832",
+    "emailCustomer" : "melinda@gmail.com",
+    "searchCustomer" : "Patty Romaguera",
+    "customerTxt" : "Patty Romaguera",
+    "searchNomatch" : "PT",
+    "nomatchTxt" : "No Match",
+    "detailstxt" : "Details",
+    "editTxt" : "Edit"
+
+
+
+}
