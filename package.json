@@ -1,0 +1,22 @@
+{
+  "name": "tak-cypress",
+  "version": "1.0.0",
+  "description": "automation using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meliftr/TAK-cypress.git"
+  },
+  "author": "melinda fitriani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meliftr/TAK-cypress/issues"
+  },
+  "homepage": "https://github.com/Meliftr/TAK-cypress#readme",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}

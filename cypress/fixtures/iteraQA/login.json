@@ -1,0 +1,8 @@
+{
+    "usernameLogin" : "melinda_f",
+    "passowrdLogin" : 123456,
+    "passwordFailed" : 123,
+    "succesLoginTxt" : "Dashboard",
+    "failedLoginTxt" : "Wrong username or password",
+    "loginTxt" : "LOGIN"
+}

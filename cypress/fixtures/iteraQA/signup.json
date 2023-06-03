@@ -1,0 +1,15 @@
+{
+    "firstname" : "melinda",
+    "surname" : "fitriani",
+    "epost" : "epost",
+    "mobile" : "081247558888",
+    "usernameExist" : "melinda_f",
+    "passowrd" : 123456,
+    "confirmpassword" : 123456,
+    "successMsg" : "Registration Successful",
+    "failedMsg" : "Username already exist",
+    "fNameRequire" : "Please enter first name",
+    "surnameRequire" : "Please enter surname",
+    "usernameRequire" : "Please enter username",
+    "passwordRequire" : "Please enter password"
+}
