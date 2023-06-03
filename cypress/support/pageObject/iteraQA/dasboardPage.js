@@ -1,5 +1,5 @@
 class dasboardPage {
-    craetenewBtn = ':nth-child(4) > .btn'
+    createnewBtn = ':nth-child(4) > .btn'
     Name = '#Name'
     company = '#Company'
     address = '#Address'
